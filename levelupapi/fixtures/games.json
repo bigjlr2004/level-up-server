@@ -1,0 +1,26 @@
+
+[
+{
+    "model": "levelupapi.game",
+    "pk": 1,
+    "fields": {
+        "game_type": 2,
+        "title": "World of WarCraft",
+        "gamer": 1,
+        "number_of_players": 99,
+        "skill_level": 10
+    }
+},
+
+{
+    "model": "levelupapi.game",
+    "pk": 2,
+    "fields": {
+        "game_type": 1,
+        "title": "Monopoly",
+        "gamer": 1,
+        "number_of_players": 4,
+        "skill_level": 5
+    }
+}
+]

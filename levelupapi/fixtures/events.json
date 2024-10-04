@@ -1,0 +1,25 @@
+
+[
+    {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+        "game": 1,
+        "description": "WarCraft Tournament",
+        "organizer": 1,
+        "date": "2024-11-05",
+        "time": "12:30"
+    }
+},
+    {
+    "model": "levelupapi.event",
+    "pk": 3,
+    "fields": {
+        "game": 2,
+        "description": "Monopology ",
+        "organizer": 1,
+        "date": "2024-11-10",
+        "time": "12:30"
+    }
+}
+]
